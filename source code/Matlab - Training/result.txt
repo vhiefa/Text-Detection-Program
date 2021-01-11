@@ -1,0 +1,6 @@
+TRAINING RESULT
+
+ loss value :{[9.9993e-05]}    
+ epoch : {[4958]}    
+ time : {[180.8321]}    
+ file name :{["weight.xlsx"]}
